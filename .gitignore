@@ -3,3 +3,6 @@ tmp
 
 # local
 *.local.*
+
+# test results
+test/out
